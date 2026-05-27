@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsecrypt",
+        "uuid": 30780310,
+        "checksum": "nbwaxl"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
